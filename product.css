@@ -1,0 +1,113 @@
+.parallax-img {
+  height: 120% !important;
+}
+
+.woocommerce-Price-currencySymbol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 24rem;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.woocommerce-Price-currencySymbol:small {
+  display: block;
+  margin-bottom: 5rem;
+  font-size: 20rem;
+}
+
+#hidebutton {
+  display: none !important;
+}
+
+.frais-text {
+  font-size: 26rem !important;
+  margin-bottom: 16rem !important;
+  margin-top: 24rem !important;
+}
+
+.elementor-field-group-profit,
+.elementor-field-group-electricityyear,
+.elementor-field-group-performance,
+.elementor-field-group-investment,
+.elementor-field-group-percentage,
+.elementor-field-group-rendement {
+  margin-top: 24rem !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  width: 100% !important;
+  border-top-style: solid !important;
+  border-top-width: 1px !important;
+  border-top-color: #d9d9d9 !important;
+}
+
+.elementor-field-group-profit input {
+  font-size: 32rem !important;
+  font-weight: 500 !important;
+  border-width: 0px !important;
+  padding: 0rem !important;
+  color: green !important;
+  text-align: right !important;
+}
+
+.elementor-field-group-electricityyear input,
+.elementor-field-group-performance input {
+  font-size: 20rem !important;
+  font-weight: 500 !important;
+  border-width: 0px !important;
+  padding: 0rem !important;
+  color: red !important;
+  text-align: right !important;
+}
+
+.elementor-field-group-investment input,
+.elementor-field-group-percentage input,
+.elementor-field-group-rendement input {
+  font-size: 20rem !important;
+  font-weight: 500 !important;
+  border-width: 0px !important;
+  padding: 0rem !important;
+  color: black !important;
+  text-align: right !important;
+}
+
+label {
+  flex-grow: 0 !important;
+  flex-shrink: 0 !important;
+  flex-basis: auto !important;
+  padding: 0 !important;
+}
+
+.elementor-section {
+  padding-top: 14rem !important;
+  padding-bottom: 144rem !important;
+}
+
+#form-field-quantity {
+  width: 60rem !important;
+  max-width: 80rem !important;
+  border-radius: 100rem !important;
+  padding-left: 16rem !important;
+}
+
+.elementor-field-group-quantity {
+  margin-top: 24rem !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+.elementor-form input:focus {
+  box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0%) !important;
+}
+
+.elementor-field-group-price,
+.elementor-field-group-machine,
+.elementor-field-group-machineprofit,
+.elementor-field-group-electricity {
+  display: none !important;
+}

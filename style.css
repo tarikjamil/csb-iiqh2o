@@ -1,0 +1,19 @@
+.main-wrapper {
+  opacity: 0;
+}
+
+.home-price {
+  opacity: 1 !important;
+}
+
+.navbar-logo-img {
+  height: 46rem !important;
+}
+
+.navbar-logo-img:small {
+  height: 28rem !important;
+}
+
+.navbar-logo-img:medium {
+  height: 32rem !important;
+}
